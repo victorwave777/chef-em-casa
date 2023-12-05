@@ -1,0 +1,24 @@
+{
+  "name": "chef-em-casa",
+  "version": "1.0.0",
+  "description": "PROJETO DESENVOLVIDO NA AULA DO CURO DO SENAC 2023.2\r # TECNOLOGIA \r - BOOTSTRAP\r - PHP\r - MYQSL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorwave777/chef-em-casa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorwave777/chef-em-casa/issues"
+  },
+  "homepage": "https://github.com/victorwave777/chef-em-casa#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.1.1",
+    "popper.js": "^1.14.7"
+  }
+}
