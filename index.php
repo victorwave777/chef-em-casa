@@ -1,6 +1,7 @@
 <?php
   $currentPage = 'index';
   include_once(__DIR__ . '/components/header.php');
+  
 ?>
 <main class="">
   <section id="carrousel">
@@ -10,7 +11,7 @@
           <img src="src/imagem/13.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-          <img src="src/imagem/14.png" d-block w-100" alt="...">
+          <img src="src/imagem/14.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
           <img src="src/imagem/15.png" class="d-block w-100" alt="...">
@@ -99,7 +100,7 @@
       <div class="row">
         <div class="col-md-4 mb-4">
           <div class="card h-100">
-            <img src="src/img/12-min.png" class="card-img-top" alt="Escondidinho de Carne Seca">
+            <img src="src/imagem/15.png" class="card-img-top" alt="Escondidinho de Carne Seca">
             <div class="card-body">
               <h5 class="card-title">
                 Escondidinho de Carne Seca
@@ -116,7 +117,7 @@
 
         <div class="col-md-4 mb-4">
           <div class="card h-100">
-            <img src="src/img/12-min.png" class="card-img-top" alt="Bóbó de Camarão">
+            <img src="src/imagem/14.png" class="card-img-top" alt="Bóbó de Camarão">
             <div class="card-body">
               <h5 class="card-title">
                 Bóbó de Camarão
@@ -133,7 +134,7 @@
 
         <div class="col-md-4 mb-4">
           <div class="card h-100">
-            <img src="src/img/12-min.png" class="card-img-top" alt="Bolo de Cenoura">
+            <img src="src/imagem/13.png" class="card-img-top" alt="Bolo de Cenoura">
             <div class="card-body">
               <h5 class="card-title">
                 Bolo de Cenoura
